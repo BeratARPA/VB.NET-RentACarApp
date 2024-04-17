@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Rent-A-Car-App", "Rent-A-Car-App\Rent-A-Car-App.vbproj", "{39E660E2-E788-440F-9992-2273CB0480D5}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Database", "Database\Database.vbproj", "{9585E3D4-0ECF-4229-B608-CC2B87233B9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39E660E2-E788-440F-9992-2273CB0480D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E660E2-E788-440F-9992-2273CB0480D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E660E2-E788-440F-9992-2273CB0480D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E660E2-E788-440F-9992-2273CB0480D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9585E3D4-0ECF-4229-B608-CC2B87233B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9585E3D4-0ECF-4229-B608-CC2B87233B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9585E3D4-0ECF-4229-B608-CC2B87233B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9585E3D4-0ECF-4229-B608-CC2B87233B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDADDD64-B90D-42BE-87A5-AA5A14C1F785}
+	EndGlobalSection
+EndGlobal
